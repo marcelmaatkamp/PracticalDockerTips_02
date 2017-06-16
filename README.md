@@ -1,6 +1,6 @@
 # Practical Docker Tips
 
-## Episode 02: ""
+## Episode 02: "Let's make a secure Wordpress site via Letsencrypt"
 
 ## About
 
